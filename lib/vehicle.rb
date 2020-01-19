@@ -9,7 +9,7 @@ class Vehicle
     "vrrrrrrrooom!"
   end 
   
-  def filling_up_tank
+  def fill_up_tank
     "filling up!"
   end 
 end
